@@ -11,15 +11,24 @@ Berikut beberapa fungsi dari projek ini
 
 ## Screenshot
 - Tampilan Awal / MainWindow
-![image](https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss1.png)
+ <p align="center" width="100%">
+  <img alt="⚡ Fun fact bout me : tukang tidur" src="https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss1.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"/>
+</p>
+
 
 - Menu item
-![image](https://raw.githubusercontent.com/raihante/SadShop/master/ss2.png) 
+ <p align="center" width="100%">
+  <img alt="⚡ Fun fact bout me : tukang tidur" src="https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss2.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"/>
+</p>
 
 - Menu voucher
-![image](https://raw.githubusercontent.com/raihante/SadShop/master/ss3.png)
+ <p align="center" width="100%">
+  <img alt="⚡ Fun fact bout me : tukang tidur" src="https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss3.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"/>
+</p>
 
 - Hasil jika item dan voucher telah ditambahkan
-![image](https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss4.png)
+ <p align="center" width="100%">
+  <img alt="⚡ Fun fact bout me : tukang tidur" src="https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss4.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"/>
+</p>
 
 > Muhammad Reihan Triatha 19.11.2816/IF04
