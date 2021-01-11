@@ -14,10 +14,10 @@ Berikut beberapa fungsi dari projek ini
 ![image](https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss1.png)
 
 - Menu item
-![image](https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss2.png) 
+![image](https://raw.githubusercontent.com/raihante/SadShop/master/ss2.png) 
 
 - Menu voucher
-![image](https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss3.png)
+![image](https://raw.githubusercontent.com/raihante/SadShop/master/ss3.png)
 
 - Hasil jika item dan voucher telah ditambahkan
 ![image](https://raw.githubusercontent.com/raihante/SadShop/master/SadShop/Screenshot/ss4.png)
