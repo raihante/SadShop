@@ -1,4 +1,5 @@
 ﻿# SadShop
+> Muhammad Reihan Triatha 19.11.2816/IF04
 
 ## Description
 Program SadShop ini bertujuan menambahkan item ke sebuah keranjang digital
@@ -9,6 +10,29 @@ Berikut beberapa fungsi dari projek ini
 - Penambahan fungsi voucher
 - Penambahan messagebox pada saat menghapus
 
+## Cara Kerja
+logika perhitungan untuk melakukan kalkulasi terdapat pad class Payment.cs
+
+``` csharp
+class Payment
+    {
+        OnPaymentChangedListener paymentListener;
+        public Payment(OnPaymentChangedListener paymentListener)
+        {
+
+            this.paymentListener = paymentListener;
+        }
+
+        public void updateTotal(double subTotal, double promo)
+        {
+
+            double total = subTotal - promo;
+            this.paymentListener.onPriceUpdated(subTotal, total, promo);
+
+        }
+    }
+```
+    
 ## Screenshot
  <p align="center" width="100%">
  - Tampilan Awal / MainWindow
